@@ -1,0 +1,15 @@
+/*
+primary: #7DE5ED
+secundary: #81C6E8
+light: #5DA7DB
+info: #5837D0
+*/
+
+h1 
+{
+    color: #5DA7DB;    
+}
+
+.bg-primary{
+    color: #7DE5ED;
+}
